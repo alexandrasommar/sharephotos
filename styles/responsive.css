@@ -1,0 +1,21 @@
+@media screen and (max-width: 959px){
+	.container {
+		width: auto;
+	}
+
+	.content {
+		margin-left: 10%;
+	}
+	
+}
+
+@media screen and (max-width: 800px) {
+	.wrapper {
+		flex-direction: column;
+		}
+		
+	input {
+		width: 70vw;
+	}
+
+}
